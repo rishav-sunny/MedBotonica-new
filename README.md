@@ -6,7 +6,7 @@ npx react-native run-android
 
 ![image alt](https://github.com/rishav-sunny/MedBotonica-new/blob/main/Screenshot%202026-01-31%20144019.png?raw=true)
 ![image alt](https://github.com/rishav-sunny/MedBotonica-new/blob/main/Screenshot%202026-01-31%20144059.png?raw=true)
-![image alt]()
+![image alt](https://github.com/rishav-sunny/MedBotonica-new/blob/main/Screenshot%202026-01-31%20144117.png?raw=true)
 
 
 
